@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LibDefaultStyle" parent="LibBaseTheme">
+        <item name="libTitleBarHeight">48dp</item>
+        <item name="libTitleBackground">@android:color/holo_blue_light</item>
+    </style>
+
+    <style name="LibBaseTheme" parent="@android:style/Theme.Light.NoTitleBar"></style>
+
+</resources>
