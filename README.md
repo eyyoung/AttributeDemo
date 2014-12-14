@@ -15,3 +15,5 @@ AttributeDemo
 ```
 
 通过在主工程中配置对应的属性实现Library界面可配置
+
+https://eyyoung.github.io/2014/12/13/android-attr/
